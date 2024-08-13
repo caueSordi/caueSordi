@@ -1,5 +1,5 @@
 
-![](windows-xp-loading-sceen.gif)
+![](windows-xp-loading-screen.gif)
 ## Hi there, I'm Caue! 👋
 
 ### 👀 What I'm Interested In:
