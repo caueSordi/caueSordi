@@ -1,4 +1,4 @@
-Hi there, I'm Caue! 👋
+
 ## Hi there, I'm Caue! 👋
 
 ### 👀 What I'm Interested In:
