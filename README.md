@@ -1,4 +1,4 @@
-
+![](windows-xp-loading-sceen.gif)
 ## Hi there, I'm Caue! 👋
 
 ### 👀 What I'm Interested In:
@@ -12,3 +12,4 @@
 - **Swift** - Creating iOS applications.
 
 ![](scaler-create-impact.gif)
+
