@@ -1,12 +1,14 @@
 Hi there, I'm Caue! 👋
-👀 What I'm Interested In:
+## Hi there, I'm Caue! 👋
 
-    APIs 
-    OCR (Optical Character Recognition) 
+### 👀 What I'm Interested In:
+- **APIs**
+- **OCR (Optical Character Recognition)**
+- **Mobile Development**
 
-🌱 Currently Learning:
+### 🌱 Currently Learning:
+- **C++ & C** - Enhancing my systems programming skills.
+- **Python** - Expanding my expertise in data science, automation, and backend development.
+- **Swift** - Creating iOS applications.
 
-    C++ & C - Enhancing my systems programming skills.
-    Python - Expanding my expertise in data science, automation, and backend development.
-    Swift - Creating iOS applications.
 ![](scaler-create-impact.gif)
