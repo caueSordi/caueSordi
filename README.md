@@ -18,7 +18,7 @@
 - **Swift** - Creating iOS applications.
   
 ### 📩 Contact information
-- [Email](cauepaulino@icloud.com)
+- **E-mail** - cauepaulino@icloud.com
 
 <p align="center">
 <img align="center" src="https://github.com/caueSordi/caueSordi/blob/main/end.png"/>
