@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img align="center" src="https://github.com/caueSordi/caueSordi/blob/main/scaler-create-impact.gif"/>
+<img align="center" src="https://github.com/caueSordi/caueSordi/blob/main/Welcome.png"/>
 </p>
 
 
