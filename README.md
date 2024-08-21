@@ -17,3 +17,8 @@
 - **Python** - Expanding my expertise in data science, automation, and backend development.
 - **Swift** - Creating iOS applications.
 
+<p align="center">
+<img align="center" src="https://github.com/caueSordi/caueSordi/blob/main/end.png"/>
+</p>
+
+
