@@ -4,7 +4,7 @@
 <img align="center" src="https://github.com/caueSordi/caueSordi/blob/main/scaler-create-impact.gif"/>
 </p>
 
-![](windows-xp-loading-screen.gif)
+
 ## Hi there, I'm Caue! 👋
 
 ### 👀 What I'm Interested In:
