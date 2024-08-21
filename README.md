@@ -1,4 +1,9 @@
 
+
+<p align="center">
+<img align="center" src="https://github.com/caueSordi/caueSordi/blob/main/scaler-create-impact.gif"/>
+</p>
+
 ![](windows-xp-loading-screen.gif)
 ## Hi there, I'm Caue! 👋
 
@@ -11,6 +16,4 @@
 - **C++ & C** - Enhancing my systems programming skills.
 - **Python** - Expanding my expertise in data science, automation, and backend development.
 - **Swift** - Creating iOS applications.
-
-![](scaler-create-impact.gif)
 
