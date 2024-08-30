@@ -15,7 +15,7 @@
 ### 🌱 Currently Learning:
 - **C++ & C** - Enhancing my systems programming skills.
 - **Python** - Expanding my expertise in data science, automation, and backend development.
-- **Swift** - Creating iOS applications.
+- **Flutter** - Creating Android applications .
   
 ### 📩 Contact information
 - **E-mail** - cauepaulino@icloud.com
