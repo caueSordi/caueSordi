@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://www.imood.com/user/status?Cauer" alt="iMood Status">
+  <img src="https://www.imood.com/user/Cauer" alt="iMood Status">
 </p>
 
 ## Hi there, I'm Caue! 👋
