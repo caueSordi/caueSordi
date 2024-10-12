@@ -5,6 +5,10 @@
 </p>
 
 
+<p align="center">
+  <img src="https://www.imood.com/user/status?Cauer" alt="iMood Status">
+</p>
+
 ## Hi there, I'm Caue! 👋
 
 ### 👀 What I'm Interested In:
