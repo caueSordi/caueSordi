@@ -41,7 +41,7 @@ Currently building skills across different domains — from bare-metal programmi
 
 ---
 
-### 📫 Let's Connect
+### 📫 Contact info: 
 - 📧 **Email:** [cauesordipaulino@usp.br](mailto:cauesordipaulino@usp.br)  
 - 💼 **LinkedIn:** [Cauê Sordi Paulino](https://www.linkedin.com/in/cau%C3%AA-sordi-paulino-6227951ab/)  
 
