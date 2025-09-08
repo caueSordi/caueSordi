@@ -25,24 +25,26 @@
   </div>
 
 
-## Hi there, I'm Caue! 👋
+## Hey there, I'm Cauê! 👋
 
-### 👀 What I'm Interested In:
-- **APIs**
-- **OCR (Optical Character Recognition)**
-- **Mobile Development**
-
-### 🌱 Currently Learning:
-- **C++ & C** - Enhancing my systems programming skills.
-- **Python** - Expanding my expertise in data science, automation, and backend development.
-- **Flutter** - Creating Android applications .
-- **servers delevopment** -building my own internet caves 💽
-  
-### 📩 Contact information
-- **E-mail** - cauepaulino@icloud.com
+I'm a computer engineering student who loves tinkering with code, tech, and the occasional "what if" sci-fi scenario.  
+Currently building skills across different domains — from bare-metal programming to crafting sleek mobile apps.  
 
 ---
-*"You have to run as fast as you can just to stay in the same place. And if you want to go forward, you must run twice as fast."*  - *Alice in Wonderland*
+
+### 🌱 What I'm Learning
+- ⚡ **C & C++** → leveling up my systems programming and embedded skills.  
+- 🖥️ **RISC-V** → exploring the future of open-source architectures.  
+- 🐍 **Python** → diving deeper into data science, automation, and backend wizardry.  
+- 📱 **Flutter** → turning ideas into Android apps.  
+- 🌐 **Server Development** → basically building my own little internet caves 💽.  
+
+---
+
+### 📫 Let's Connect
+- 📧 **Email:** [cauesordipaulino@usp.br](mailto:cauesordipaulino@usp.br)  
+- 💼 **LinkedIn:** [Cauê Sordi Paulino](https://www.linkedin.com/in/cau%C3%AA-sordi-paulino-6227951ab/)  
+
 ---
 
 <div align="center">
