@@ -9,20 +9,32 @@
     </h1>
   </div>
 <p align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-    
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+  ### **Technologies** 
 
-  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caueSordi&theme=dark" alt="GitHub Streak" />
+
+<img src="https://img.shields.io/badge/C-4e76fe?style=for-the-badge&logo=c&logoColor=white">
+
+<img src="https://img.shields.io/badge/C++-4e76fe?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
+<img src="https://img.shields.io/badge/Python-4e76fe?style=for-the-badge&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/RISC--V-4e76fe?style=for-the-badge&logo=riscv&logoColor=white">
+
+<img src="https://img.shields.io/badge/Arduino-4e76fe?style=for-the-badge&logo=arduino&logoColor=white">
+
+<img src="https://img.shields.io/badge/ESP32-4e76fe?style=for-the-badge&logo=espressif&logoColor=white">
+
+<img src="https://img.shields.io/badge/Linux-4e76fe?style=for-the-badge&logo=linux&logoColor=white">
+
+<img src="https://img.shields.io/badge/Git-4e76fe?style=for-the-badge&logo=git&logoColor=white">
+
+<img src="https://img.shields.io/badge/OpenCV-4e76fe?style=for-the-badge&logo=opencv&logoColor=white">
+
 </p>
 
-  <div align="center">
-    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
-  </div>
+
 
 
 ## Hey there, I'm Cauê! 👋
@@ -33,18 +45,17 @@ Currently building skills across different domains — from bare-metal programmi
 ---
 
 ### 🌱 What I'm Learning
-- ⚡ **C & C++** → leveling up my systems programming and embedded skills.  
-- 🖥️ **RISC-V** → exploring the future of open-source architectures.  
-- 🐍 **Python** → diving deeper into data science, automation, and backend wizardry.  
-- 📱 **Flutter** → turning ideas into Android apps.  
-- 🌐 **Server Development** → basically building my own little internet caves 💽.  
 
+- ⚡ **C & C++** → getting closer to the metal and learning how software actually interacts with hardware.
+- 🖥️ **RISC-V** → exploring computer architecture and low-level programming.
+- 🔧 **Embedded Systems** → making microcontrollers, sensors, and electronics do useful things.
+- 🧠 **Computer Vision** → experimenting with real-time hand tracking, gesture recognition, and image processing.
+- 🐧 **Linux** → breaking, fixing, and understanding the systems underneath my development environment.
 ---
 
 ### 📫 Contact info: 
 - 📧 **Email:** [cauesordipaulino@usp.br](mailto:cauesordipaulino@usp.br)  
 - 💼 **LinkedIn:** [Cauê Sordi Paulino](https://www.linkedin.com/in/cau%C3%AA-sordi-paulino-6227951ab/)  
-- **Tumblr** [my tumblr] (https://peaches-8.tumblr.com/)
 ---
 
 <div align="center">
