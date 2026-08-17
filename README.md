@@ -1,7 +1,6 @@
 
 
 <p align="center">
-<img align="center" src="https://github.com/caueSordi/caueSordi/blob/main/welcome_new.png">
 </p>
   <div align="center">
     <h1>
